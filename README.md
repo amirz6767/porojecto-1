@@ -19,6 +19,8 @@
 - 🔴 **Задавайте вопросы про:** Разработку сайтов и логику приложений
 - 💬 **Связь со мной:** [Ваш Telegram / Email]
 
+> *"Did you ever hear the Tragedy of Darth Plagueis the Wise?"* — Император Палпатин (Дарт Сидиус)
+
 ---
 
 ### 🗡️ Арсенал и Инструменты
@@ -30,6 +32,14 @@
   <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-330000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🌌 Атмосфера Ситхов
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Dark Side Vibe" style="border-radius: 10px;" />
 </p>
 
 ---
