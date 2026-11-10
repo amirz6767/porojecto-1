@@ -1,36 +1,42 @@
-<h1 align="center">Привет! Я Амирхан Мавлонов 👋</h1>
+<h1 align="center">Привет! Я Амирхан Мавлонов ⚡</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Amirkhan%20Mavlonov&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=200&section=header&text=Amirkhan%20Mavlonov&fontSize=50&animation=twinkle&fontColor=ffffff" width="100%" />
 </p>
 
-### 👨‍💻 Обо мне
-
-Разработчик, увлекаюсь программированием и созданием современных веб-проектов.
-
-- 🔭 Сейчас работаю над: **Интерактивными веб-платформами и образовательными проектами**
-- 🌱 Изучаю: **Веб-технологии, архитектуры систем (CPU/GPU) и Python**
-- 💬 Задавайте вопросы про: **Разработку сайтов и логику приложений**
-- 📫 Как со мной связаться: **[Ваш Telegram / Email / Соцсеть]**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Welcome+to+the+Dark+Side...;Full-Stack+Developer;Architecting+Digital+Galaxies..." alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠 Стек технологий и инструменты
+### 🔴 Обо мне / The Dark Side
+
+Разработчик, создающий мощные веб-платформы и укрощающий сложные архитектуры.
+
+- ⚔️ **Текущий проект:** Разработка интерактивных веб-платформ
+- ⚡ **Изучаю:** Веб-технологии, архитектуру CPU/GPU и Python
+- 🔴 **Задавайте вопросы про:** Разработку сайтов и логику приложений
+- 💬 **Связь со мной:** [Ваш Telegram / Email]
+
+---
+
+### 🗡️ Арсенал и Инструменты
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-4A0000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-330000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Статистика профиля
+### ⚙️ Статистика Могущества
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=dark&locale=ru" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_ЛОГИН&layout=compact&theme=dark&locale=ru" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirz6767&show_icons=true&theme=blood&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirz6767&layout=compact&theme=blood&hide_border=false" />
 </p>
